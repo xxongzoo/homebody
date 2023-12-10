@@ -1,0 +1,181 @@
+
+/*휴대폰*/
+@media screen and (max-width:768px){
+
+.intro{
+margin-bottom: 50%;}
+
+
+.thetitle{  color: #6D6E71; margin-top: 50%; 
+
+  font-size: 0.5em;
+  font-family: woo;
+
+text-align: center;
+}
+
+#video_area {
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+
+  
+  
+  
+  }
+  #background_video {
+      z-index: -1;
+      width: 100vw;
+      position: absolute;
+  }
+   
+  
+  .imgcat{
+display: none;}
+  
+  .imgkm{
+
+    display: none;}
+  
+  .imgjh{display: none;}
+  
+  .imgcactus{display: none;}
+  
+  
+  
+  .title{float: left;  color: #6D6E71; margin-top: 70%; 
+    width: 100%;
+    font-size: 6em;
+    font-family: woo;
+  text-align: center;
+  
+  }
+  .subtitle{float: left;  color: #cbcbcb;
+  margin-bottom: 40%;
+    width: 100%;
+    font-size: 1.2em;
+    font-family: Orbit;
+  
+  text-align: center;
+  }
+  
+  
+  
+  .posterimg{display: none;}
+  
+  .poster{font-size: 0.5em; 
+    
+  }
+  
+.postertitle{ float: left;}
+
+  .postertext{float: left; }
+  
+  
+ .actortitle{margin-bottom: 30%;}
+  
+  .actor{ margin-top: 30%;
+    font-size: 0.5em; 
+  clear: both;}
+  
+  .main{display: none;
+  }
+  
+  .cat{display: none;
+  }
+  
+  
+  
+  .cactus{display: none;
+  }
+  
+  .man{display: none;
+  }
+  
+
+  
+
+
+  
+.project{font-size: 0.5em;}
+  
+  .maker{font-size: 0.5em;}
+ 
+  
+
+  
+  div .copy{color: #cbcbcb;
+  
+  padding-bottom:5% ;
+  font-family: Orbit;
+  font-size: 0.5em;
+  display: grid;
+              place-items: center;
+  
+  
+  width: 100%;}
+  
+ 
+  
+
+  
+div .run img{ width: 20%;
+  
+    }
+  
+  
+  
+  
+
+  
+  	.list {
+    display: none; /* 작은 화면에서는 메뉴 아이템 숨김 */
+
+  }
+
+
+
+
+  
+/* 부모요소 */
+.tt {
+  position: relative;
+  margin-top: 50%;
+  margin-bottom: 30%;
+  padding-top: 56%;
+  width: 100%;
+  height: 0;
+}
+
+/* iframe */
+.tt > iframe {
+  position: absolute;
+
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+  
+
+/* 부모요소 */
+.vid {margin-top: 150%;
+  position: relative;
+  padding-top: 56%;
+  width: 100%;
+  height: 0;
+}
+
+/* iframe */
+.vid > iframe {
+  position: absolute;
+
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+}

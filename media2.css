@@ -1,0 +1,101 @@
+
+/*노트북*/
+@media screen and (max-width:1700px){
+
+ 
+.imgcat img{width: 80%;}
+     
+ .imgkm img{width: 80%;}   
+
+ .imgjh img{width: 80%;}   
+    
+ .imgcactus img{width: 80%;}   
+
+
+    .thetitle{
+   
+      font-size: 0.8em;
+
+    
+    }
+  
+    .poster{  font-size: 0.8em;}
+    
+    
+
+    
+    .poster img{width: 70%;
+      font-size: 0.5em; 
+      
+    }
+    
+  .postertitle{ float: left;}
+  
+    .postertext{float: left; }
+    
+    
+   .actortitle{margin-bottom: 30%;}
+    
+    .actor{ margin-top: 30%;
+      font-size: 0.5em; 
+    clear: both;}
+    
+    .main img{width: 80%;
+    }
+    
+    .cat img{width: 80%;
+    }
+    
+    
+    
+    .cactus img{width: 80%;
+    }
+    
+    .man img{width: 80%;
+    }
+    
+  
+    
+  
+  
+    
+  .project{font-size: 0.5em;}
+    
+    .maker{font-size: 0.5em;}
+   
+    
+  
+    
+    div .copy{color: #cbcbcb;
+    
+    padding-bottom:5% ;
+    font-family: Orbit;
+    font-size: 0.5em;
+    display: grid;
+                place-items: center;
+    
+    
+    width: 100%;}
+    
+   
+    
+  
+    
+  div .run img{ clear: both;
+    width: 10%;
+    
+      }
+    
+    
+    
+    
+  
+    
+  
+  
+  
+  
+    
+
+  
+  }
